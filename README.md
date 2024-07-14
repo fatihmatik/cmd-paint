@@ -22,3 +22,5 @@ To run the application, open your command prompt or terminal and navigate to the
 ```sh
 py main.py
 ```
+
+![tuipaınt](https://github.com/user-attachments/assets/fee1672c-18e3-471f-bb79-63de4fad9d30)
